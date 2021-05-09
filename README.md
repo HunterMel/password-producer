@@ -1,4 +1,4 @@
-# Password Generator Starter Code: By Hunter Johnson
+# Password Generator Initiated: By Hunter Johnson
 ![](Images/photogenerator.png)
 
 
